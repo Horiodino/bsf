@@ -1,6 +1,6 @@
 
 packages {
-  development = ["go@1.21.6", "gotools@0.16.1", "delve@1.22.0", "go-task@~3.37.2", "golangci-lint@~1.59.0"]
+  development = ["delve@1.22.0", "go-task@~3.37.2", "go@1.21.6", "golangci-lint@~1.59.1", "gotools@0.16.1"]
   runtime     = ["cacert@3.95"]
 }
 
